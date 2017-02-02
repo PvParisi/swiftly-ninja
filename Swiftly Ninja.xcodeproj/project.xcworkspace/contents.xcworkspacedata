@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Swifty Ninja.xcodeproj">
+      location = "self:/Users/Piervincenzo/Projects/Swifty Ninja/Swiftly Ninja.xcodeproj">
    </FileRef>
 </Workspace>

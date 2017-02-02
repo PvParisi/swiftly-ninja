@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Swifty Ninja
+//  Swiftly Ninja
 //
 //  Created by Piervincenzo Parisi on 02/02/17.
 //  Copyright © 2017 Piervincenzo Parisi. All rights reserved.

@@ -8,14 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		4204ED501E43397100EC33B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204ED4F1E43397100EC33B5 /* AppDelegate.swift */; };
-		4204ED521E43397100EC33B5 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED511E43397100EC33B5 /* GameScene.sks */; };
-		4204ED541E43397100EC33B5 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED531E43397100EC33B5 /* Actions.sks */; };
 		4204ED561E43397100EC33B5 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204ED551E43397100EC33B5 /* GameScene.swift */; };
 		4204ED581E43397100EC33B5 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204ED571E43397100EC33B5 /* GameViewController.swift */; };
 		4204ED5B1E43397100EC33B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED591E43397100EC33B5 /* Main.storyboard */; };
 		4204ED5D1E43397100EC33B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED5C1E43397100EC33B5 /* Assets.xcassets */; };
 		4204ED601E43397100EC33B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED5E1E43397100EC33B5 /* LaunchScreen.storyboard */; };
 		4204ED6B1E43397100EC33B5 /* Swifty_NinjaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204ED6A1E43397100EC33B5 /* Swifty_NinjaTests.swift */; };
+		4204ED7A1E433D1400EC33B5 /* background-music-aac.caf in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED781E433D1400EC33B5 /* background-music-aac.caf */; };
+		4204ED7B1E433D1400EC33B5 /* pew-pew-lei.caf in Resources */ = {isa = PBXBuildFile; fileRef = 4204ED791E433D1400EC33B5 /* pew-pew-lei.caf */; };
+		4204ED7D1E4355A200EC33B5 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4204ED7C1E4355A200EC33B5 /* GameOverScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,19 +30,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4204ED4C1E43397100EC33B5 /* Swifty Ninja.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swifty Ninja.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4204ED4C1E43397100EC33B5 /* Swiftly Ninja.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swiftly Ninja.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4204ED4F1E43397100EC33B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4204ED511E43397100EC33B5 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		4204ED531E43397100EC33B5 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		4204ED551E43397100EC33B5 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		4204ED571E43397100EC33B5 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		4204ED5A1E43397100EC33B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4204ED5C1E43397100EC33B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4204ED5F1E43397100EC33B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4204ED611E43397100EC33B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4204ED661E43397100EC33B5 /* Swifty NinjaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swifty NinjaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4204ED661E43397100EC33B5 /* Swiftly NinjaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swiftly NinjaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4204ED6A1E43397100EC33B5 /* Swifty_NinjaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swifty_NinjaTests.swift; sourceTree = "<group>"; };
 		4204ED6C1E43397100EC33B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4204ED781E433D1400EC33B5 /* background-music-aac.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "background-music-aac.caf"; sourceTree = "<group>"; };
+		4204ED791E433D1400EC33B5 /* pew-pew-lei.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pew-pew-lei.caf"; sourceTree = "<group>"; };
+		4204ED7C1E4355A200EC33B5 /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,8 +76,8 @@
 		4204ED4D1E43397100EC33B5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4204ED4C1E43397100EC33B5 /* Swifty Ninja.app */,
-				4204ED661E43397100EC33B5 /* Swifty NinjaTests.xctest */,
+				4204ED4C1E43397100EC33B5 /* Swiftly Ninja.app */,
+				4204ED661E43397100EC33B5 /* Swiftly NinjaTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,11 +85,11 @@
 		4204ED4E1E43397100EC33B5 /* Swifty Ninja */ = {
 			isa = PBXGroup;
 			children = (
+				4204ED771E433D1400EC33B5 /* Sounds */,
 				4204ED4F1E43397100EC33B5 /* AppDelegate.swift */,
-				4204ED511E43397100EC33B5 /* GameScene.sks */,
-				4204ED531E43397100EC33B5 /* Actions.sks */,
 				4204ED551E43397100EC33B5 /* GameScene.swift */,
 				4204ED571E43397100EC33B5 /* GameViewController.swift */,
+				4204ED7C1E4355A200EC33B5 /* GameOverScene.swift */,
 				4204ED591E43397100EC33B5 /* Main.storyboard */,
 				4204ED5C1E43397100EC33B5 /* Assets.xcassets */,
 				4204ED5E1E43397100EC33B5 /* LaunchScreen.storyboard */,
@@ -105,12 +107,21 @@
 			path = "Swifty NinjaTests";
 			sourceTree = "<group>";
 		};
+		4204ED771E433D1400EC33B5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				4204ED781E433D1400EC33B5 /* background-music-aac.caf */,
+				4204ED791E433D1400EC33B5 /* pew-pew-lei.caf */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4204ED4B1E43397100EC33B5 /* Swifty Ninja */ = {
+		4204ED4B1E43397100EC33B5 /* Swiftly Ninja */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4204ED6F1E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swifty Ninja" */;
+			buildConfigurationList = 4204ED6F1E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swiftly Ninja" */;
 			buildPhases = (
 				4204ED481E43397100EC33B5 /* Sources */,
 				4204ED491E43397100EC33B5 /* Frameworks */,
@@ -120,14 +131,14 @@
 			);
 			dependencies = (
 			);
-			name = "Swifty Ninja";
+			name = "Swiftly Ninja";
 			productName = "Swifty Ninja";
-			productReference = 4204ED4C1E43397100EC33B5 /* Swifty Ninja.app */;
+			productReference = 4204ED4C1E43397100EC33B5 /* Swiftly Ninja.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4204ED651E43397100EC33B5 /* Swifty NinjaTests */ = {
+		4204ED651E43397100EC33B5 /* Swiftly NinjaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4204ED721E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swifty NinjaTests" */;
+			buildConfigurationList = 4204ED721E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swiftly NinjaTests" */;
 			buildPhases = (
 				4204ED621E43397100EC33B5 /* Sources */,
 				4204ED631E43397100EC33B5 /* Frameworks */,
@@ -138,9 +149,9 @@
 			dependencies = (
 				4204ED681E43397100EC33B5 /* PBXTargetDependency */,
 			);
-			name = "Swifty NinjaTests";
+			name = "Swiftly NinjaTests";
 			productName = "Swifty NinjaTests";
-			productReference = 4204ED661E43397100EC33B5 /* Swifty NinjaTests.xctest */;
+			productReference = 4204ED661E43397100EC33B5 /* Swiftly NinjaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -166,7 +177,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4204ED471E43397100EC33B5 /* Build configuration list for PBXProject "Swifty Ninja" */;
+			buildConfigurationList = 4204ED471E43397100EC33B5 /* Build configuration list for PBXProject "Swiftly Ninja" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -179,8 +190,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4204ED4B1E43397100EC33B5 /* Swifty Ninja */,
-				4204ED651E43397100EC33B5 /* Swifty NinjaTests */,
+				4204ED4B1E43397100EC33B5 /* Swiftly Ninja */,
+				4204ED651E43397100EC33B5 /* Swiftly NinjaTests */,
 			);
 		};
 /* End PBXProject section */
@@ -190,11 +201,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4204ED7A1E433D1400EC33B5 /* background-music-aac.caf in Resources */,
 				4204ED5B1E43397100EC33B5 /* Main.storyboard in Resources */,
-				4204ED521E43397100EC33B5 /* GameScene.sks in Resources */,
 				4204ED5D1E43397100EC33B5 /* Assets.xcassets in Resources */,
+				4204ED7B1E433D1400EC33B5 /* pew-pew-lei.caf in Resources */,
 				4204ED601E43397100EC33B5 /* LaunchScreen.storyboard in Resources */,
-				4204ED541E43397100EC33B5 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +225,7 @@
 			files = (
 				4204ED561E43397100EC33B5 /* GameScene.swift in Sources */,
 				4204ED581E43397100EC33B5 /* GameViewController.swift in Sources */,
+				4204ED7D1E4355A200EC33B5 /* GameOverScene.swift in Sources */,
 				4204ED501E43397100EC33B5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -231,7 +243,7 @@
 /* Begin PBXTargetDependency section */
 		4204ED681E43397100EC33B5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4204ED4B1E43397100EC33B5 /* Swifty Ninja */;
+			target = 4204ED4B1E43397100EC33B5 /* Swiftly Ninja */;
 			targetProxy = 4204ED671E43397100EC33B5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -384,7 +396,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Swifty-NinjaTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swifty Ninja.app/Swifty Ninja";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swiftly Ninja.app/Swiftly Ninja";
 			};
 			name = Debug;
 		};
@@ -399,14 +411,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Swifty-NinjaTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swifty Ninja.app/Swifty Ninja";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swiftly Ninja.app/Swiftly Ninja";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4204ED471E43397100EC33B5 /* Build configuration list for PBXProject "Swifty Ninja" */ = {
+		4204ED471E43397100EC33B5 /* Build configuration list for PBXProject "Swiftly Ninja" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4204ED6D1E43397100EC33B5 /* Debug */,
@@ -415,7 +427,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4204ED6F1E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swifty Ninja" */ = {
+		4204ED6F1E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swiftly Ninja" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4204ED701E43397100EC33B5 /* Debug */,
@@ -423,7 +435,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		4204ED721E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swifty NinjaTests" */ = {
+		4204ED721E43397100EC33B5 /* Build configuration list for PBXNativeTarget "Swiftly NinjaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4204ED731E43397100EC33B5 /* Debug */,
